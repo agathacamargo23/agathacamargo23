@@ -1,7 +1,7 @@
 ### Hi 👩‍🎓 Estudante na área de tecnologia
-👩🏽‍💻Futura Desenvolvedora Full Stack Java 
+👩🏽‍💻Sou Desenvolvedora Full Stack Java Formada Pela Generation Brasil
 
-## Olá! Aqui e a Agatha Camargo
+ ## Olá! Aqui e a Agatha Camargo
 
 Desenvolvedora Full Stack Java!
 
